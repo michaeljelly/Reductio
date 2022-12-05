@@ -16,7 +16,7 @@ let package = Package(
         .library(
             name: "Reductio",
             targets: ["Reductio"],
-             version: "1.0.0"
+             version: "1.0.1"
         ),
     ],
     dependencies: [
@@ -36,5 +36,5 @@ let package = Package(
         ),
     ],
     swiftLanguageVersions: [.v5]
-    version: "1.0.0"
+    version: "1.0.1"
 )
