@@ -33,7 +33,5 @@ let package = Package(
             name: "ReductioTests",
             dependencies: ["Reductio"]
         ),
-    ],
-    swiftLanguageVersions: [.v5]
-    version: "1.0.1"
+    ]
 )
